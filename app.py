@@ -64,7 +64,7 @@ configuration = Configuration(access_token=CHANNEL_ACCESS_TOKEN)
 
 @app.route("/")
 def index():
-    return "2024 LineBot Building & Learning Behavior Analysis Workshop"
+    return "202412 LINE Bot Workshop"
 
 @app.route("/callback", methods=['POST'])
 def callback():

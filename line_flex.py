@@ -848,14 +848,14 @@ def scedule_line_flex_str():
                         "contents": [
                         {
                             "type": "text",
-                            "text": "LINE Bot Overview",
+                            "text": "LINE Bot Basic",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
                         },
                         {
                             "type": "text",
-                            "text": "LINE Official Account's introduction&setting",
+                            "text": "LINE Official Account",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c",
@@ -1084,7 +1084,7 @@ def scedule_line_flex_str():
                         },
                         {
                             "type": "text",
-                            "text": "Bulid Echo Bot",
+                            "text": "Echo Bot",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
@@ -1323,6 +1323,13 @@ def scedule_line_flex_str():
                         {
                             "type": "text",
                             "text": "Messaging API",
+                            "gravity": "center",
+                            "size": "xs",
+                            "color": "#8c8c8c"
+                        },
+                        {
+                            "type": "text",
+                            "text": "LINE Bot Application",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
@@ -1787,7 +1794,7 @@ def scedule_line_flex_str():
                         "contents": [
                         {
                             "type": "text",
-                            "text": "Recall LINE Bot Introduction",
+                            "text": "Recap LINE Bot Concepts",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
@@ -2014,7 +2021,7 @@ def scedule_line_flex_str():
                         "contents": [
                         {
                             "type": "text",
-                            "text": "Project Implementation α",
+                            "text": "Project Creation Ⅰ",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
@@ -2472,14 +2479,14 @@ def scedule_line_flex_str():
                         "contents": [
                         {
                             "type": "text",
-                            "text": "Project Implementation final",
+                            "text": "Project Creation Ⅱ",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
                         },
                         {
                             "type": "text",
-                            "text": "Project Presentation",
+                            "text": "Project Sharing",
                             "gravity": "center",
                             "size": "xs",
                             "color": "#8c8c8c"
