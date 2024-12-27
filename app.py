@@ -284,7 +284,7 @@ def handle_messsage(event):
         )
         reply_message(event, [quick_reply])
     else:
-        reply_message(event, [TextMessage(text=message)])
+        pass
 
 @line_handler.add(FollowEvent)
 def handle_follow(event):
